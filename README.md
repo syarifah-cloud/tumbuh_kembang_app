@@ -88,10 +88,5 @@ Hasil prediksi:
 - Jaundice (dengan persentase tingkat keparahan)  
 ---
 
-### 8. Fitur Notifikasi dan Pengaturan  
-Fitur notifikasi mengingatkan jadwal vaksinasi, evaluasi tumbuh kembang, dan update artikel.  
-Menu pengaturan memungkinkan pengguna mengubah data akun, password, atau logout.  
-
----
 
 
