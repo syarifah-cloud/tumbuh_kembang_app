@@ -1,6 +1,4 @@
-# MANUAL BOOK
-
-## MODUL APLIKASI PANTAUNUSA
+# MODUL APLIKASI PANTAUNUSA
 
 ### Source Code  
 Detail source code aplikasi PantauNusa dapat diakses melalui tautan berikut:  
@@ -96,24 +94,4 @@ Menu pengaturan memungkinkan pengguna mengubah data akun, password, atau logout.
 
 ---
 
-## Penjelasan Modul Aplikasi  
 
-**PantauNusa: Aplikasi Cerdas Berbasis Machine Learning untuk Pemantauan Pertumbuhan dan Perkembangan Anak Nusantara**  
-dirancang sebagai inovasi digital untuk membantu orang tua dalam pemantauan anak secara terintegrasi dan berbasis data medis.  
-
-### Tujuan Utama:
-Memberikan **pemantauan preventif** dan **deteksi dini** terhadap masalah tumbuh kembang anak di Indonesia.  
-
-### Fitur Utama:
-- Pemantauan tumbuh kembang anak berdasarkan usia.  
-- Pemindaian visual & analisis citra untuk deteksi jaundice.  
-- Prediksi status gizi anak berdasarkan standar WHO.  
-- Integrasi vaksinasi & edukasi kesehatan.  
-- Pencatatan harian (Diary Anak) untuk pemantauan longitudinal.  
-
-Dengan kombinasi machine learning, pengenalan citra, dan input perilaku anak, aplikasi **PantauNusa** diharapkan menjadi solusi cerdas bagi peningkatan kualitas tumbuh kembang anak Indonesia.  
-
----
-
-## Referensi  
-**DAFTAR PUSTAKA**
