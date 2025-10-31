@@ -28,7 +28,6 @@ Berikut langkah-langkah penggunaan aplikasi **PantauNusa**, dilengkapi dengan de
 Pengguna diarahkan ke halaman login untuk masuk menggunakan email dan password yang telah terdaftar.  
 Jika belum memiliki akun, pengguna dapat memilih **“Daftar Akun Baru”** untuk melakukan registrasi.  
 
-📸 *Gambar 1. Halaman Login dan Registrasi PantauNusa*
 
 ---
 
@@ -46,7 +45,6 @@ Terdapat tombol **“Tambah Profil Anak”** untuk memasukkan data seperti:
 
 Selain itu, halaman beranda juga menampilkan artikel rekomendasi seputar tumbuh kembang anak serta lima fitur utama.  
 
-📸 *Gambar 2. Halaman Beranda Profil Anak dan Artikel Rekomendasi*
 
 ---
 
@@ -60,16 +58,11 @@ Kategori pertanyaan meliputi:
 Pilihan jawaban: **Belum**, **Sedang Belajar**, atau **Sudah Bisa**.  
 Sistem akan menghitung skor rata-rata dan menampilkan hasil dengan pesan afirmatif.  
 
-📸 *Gambar 3. Halaman Fitur Tumbuh Kembang*
-
 ---
 
 ### 4. Fitur Vaksin  
 Menampilkan lokasi fasilitas kesehatan terdekat (klinik, puskesmas, rumah sakit) yang menyediakan vaksinasi.  
 Aplikasi memanfaatkan lokasi pengguna atau pencarian manual.  
-
-📸 *Gambar 4. Halaman Fitur Vaksin*  
-📸 *Gambar 5. Tampilan Maps dengan Estimasi Jarak dan Waktu Tempuh*
 
 ---
 
@@ -77,9 +70,6 @@ Aplikasi memanfaatkan lokasi pengguna atau pencarian manual.
 Orang tua dapat mencatat aktivitas harian anak, menambahkan cerita, foto, atau audio.  
 Tanggal otomatis diperbarui sesuai waktu input.  
 Tersedia pilihan emotikon (Happy, Sad, Irritated, Energetic).  
-
-📸 *Gambar 6. Halaman Fitur Diary Anak*  
-📸 *Gambar 7. Proses Input & Histori Diary Anak*
 
 ---
 
@@ -91,9 +81,6 @@ Kategori hasil:
 - Tinggi  
 - Severely Stunted  
 
-📸 *Gambar 8. Halaman Prediksi Status Gizi*  
-📸 *Gambar 9. Hasil Prediksi Status Gizi*
-
 ---
 
 ### 7. Fitur Bayi Kuning (Jaundice Detection)  
@@ -101,17 +88,11 @@ Mendeteksi penyakit kuning (jaundice) pada bayi dengan analisis foto wajah.
 Hasil prediksi:  
 - Normal  
 - Jaundice (dengan persentase tingkat keparahan)  
-
-📸 *Gambar 10. Halaman Fitur Bayi Kuning*  
-📸 *Gambar 11. Hasil Prediksi Jaundice Detection*
-
 ---
 
 ### 8. Fitur Notifikasi dan Pengaturan  
 Fitur notifikasi mengingatkan jadwal vaksinasi, evaluasi tumbuh kembang, dan update artikel.  
 Menu pengaturan memungkinkan pengguna mengubah data akun, password, atau logout.  
-
-📸 *Sertakan screenshot fitur Notifikasi dan Pengaturan.*
 
 ---
 
