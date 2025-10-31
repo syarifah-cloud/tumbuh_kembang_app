@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519153859325",
+    "project_id": "pantaunusaapp-bf2a8",
+    "storage_bucket": "pantaunusaapp-bf2a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519153859325:android:cfcc7303e9817b69099c94",
+        "android_client_info": {
+          "package_name": "com.example.flutter_final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwDaOXq9nVBKOD0ketYm4csMme3-ue_vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
